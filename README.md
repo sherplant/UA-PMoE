@@ -4,7 +4,7 @@ This repository contains the implementation and experimental results for the ana
 
 ## 📁 Repository Structure
 
-To run the notebooks successfully, please organize your files as follows:
+To run the notebooks successfully, please organise your files as follows:
 ```text
 .
 ├── notebooks/
