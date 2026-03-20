@@ -1,4 +1,4 @@
-# Preferential Mixture-of-Experts (Pr-MoE) Reproduction
+# Uncertainty-Aware Preferential Mixture-of-Experts (UA-PMoE) Reproduction
 
 This repository contains the implementation and experimental results for the analysis of the **Pima Indians Diabetes** and **MIMIC-III Mortality** datasets using Preferential MoE with KL-regularisation and Conformal Prediction.
 
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ### 1. Pima Diabetes
 
-The notebook `notebooks/pima_diabetes_prefmoe_kl_cp.ipynb` reproduces the statistical significance and conformal safety analysis. It is optimized for local execution and typically runs in under 2 minutes.
+The notebook `notebooks/pima_diabetes_prefmoe_kl_cp.ipynb` reproduces the statistical significance and conformal safety analysis. It is optimised for local execution and typically runs in under 2 minutes.
 
 ### 2. MIMIC-III Mortality Analysis
 
